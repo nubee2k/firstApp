@@ -1,5 +1,3 @@
 # firstApp
 
 # Shawntraree Lucas
-
-#happy
